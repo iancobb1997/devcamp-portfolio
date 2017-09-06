@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/iancobb1997/cobb_view_tool2
+  revision: c19cba7ba4460cc6266aa7f24cdbf0c78d1ba884
+  specs:
+    cobb_view_tool2 (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -193,6 +199,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 4.0.0.beta)
   byebug
+  cobb_view_tool2!
   coffee-rails (~> 4.2)
   devise (~> 4.3)
   friendly_id (~> 5.2.1)
