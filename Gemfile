@@ -55,4 +55,4 @@ gem 'devise', '~> 4.3'
 gem 'bootstrap', '~> 4.0.0.beta'
 gem 'jquery-rails'
 
-gem 'cobb_view_tool2', git: 'https://github.com/iancobb1997/cobb_view_tool2'
+gem 'cobb_view_tool2', '~> 0.1.0'

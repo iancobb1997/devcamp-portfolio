@@ -1,9 +1,3 @@
-GIT
-  remote: https://github.com/iancobb1997/cobb_view_tool2
-  revision: c19cba7ba4460cc6266aa7f24cdbf0c78d1ba884
-  specs:
-    cobb_view_tool2 (0.1.0)
-
 GEM
   remote: https://rubygems.org/
   specs:
@@ -55,6 +49,7 @@ GEM
       sass (>= 3.4.19)
     builder (3.2.3)
     byebug (9.1.0)
+    cobb_view_tool2 (0.1.0)
     coderay (1.1.2)
     coffee-rails (4.2.2)
       coffee-script (>= 2.2.0)
@@ -199,7 +194,7 @@ PLATFORMS
 DEPENDENCIES
   bootstrap (~> 4.0.0.beta)
   byebug
-  cobb_view_tool2!
+  cobb_view_tool2 (~> 0.1.0)
   coffee-rails (~> 4.2)
   devise (~> 4.3)
   friendly_id (~> 5.2.1)
